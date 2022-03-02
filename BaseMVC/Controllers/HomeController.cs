@@ -21,7 +21,7 @@ namespace BaseMVC.Controllers
 
         public IActionResult Privacy()
         {
-            // This comment here though
+            // This comment here though plus some
             return View();
         }
 
