@@ -15,6 +15,7 @@ namespace BaseMVC.Controllers
 
         public IActionResult Index()
         {
+            // This comment here too
             return View();
         }
 
